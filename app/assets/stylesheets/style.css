@@ -153,6 +153,10 @@ a {
   font-size: 20px;
   margin-bottom: 8px;
   font-weight: bold;
+  transition: 0.4s ease;
+}
+.card__title:hover {
+  color: #87CEFA;
 }
 .card__summary {
   font-size: 16px;
