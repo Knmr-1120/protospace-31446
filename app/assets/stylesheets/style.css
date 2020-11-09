@@ -129,6 +129,10 @@ a {
 }
 .greeting__link{
   text-decoration: underline;
+  transition: 0.4s ease;
+}
+.greeting__link:hover{
+  color: #87CEFA;
 }
 .page-heading {
   font-size: 30px;
